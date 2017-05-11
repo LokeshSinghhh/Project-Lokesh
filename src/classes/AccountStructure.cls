@@ -19,7 +19,8 @@
 * where the sObject and query must be changed
 */
 public with sharing class AccountStructure{
-
+//this is my first
+// this is my second 
     //Declare variables
     public String currentId;
     public List<ObjectStructureMap> asm ;
@@ -309,6 +310,12 @@ public with sharing class AccountStructure{
 
             //Change this to your sObject  
             this.account = a;
+            
+            //thsiokdksdjk
+            //thsi my 3rd commit
+            //jdksjfdksjfdjjd
+            //jhjshfjshdjshd
+            //dksdksjdj
         }
     }
 }
